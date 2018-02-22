@@ -10,6 +10,7 @@ parameters:
     product_model_index_name:             akeneo_pim_product_model
     product_and_product_model_index_name: akeneo_pim_product_and_product_model
     index_hosts:                          'elastic: 9200'
-    installer_data: PimInstallerBundle:minimal
+    #installer_data: PimInstallerBundle:minimal
+    installer_data: PimInstallerBundle:icecat_demo_dev
     mailer_host: mailhog
     mailer_port: 1025
