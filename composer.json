@@ -28,9 +28,8 @@
     },
     "repositories": [
         {
-            "type": "vcs",
-            "url": "https://github.com/akeneo/pim-community-dev.git",
-            "branch": "master"
+            "type": "composer",
+            "url": "https://composer.torstenfink.de"
         }
     ],
     "scripts": {
